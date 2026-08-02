@@ -1,38 +1,40 @@
-Joined Team
-📷 Team Photo
+# Project Timeline
 
-↓
+```mermaid
+timeline
+    title Team Anveshak Journey
 
-Learned Fusion 360
-📷 Screenshot of first CAD
+    April 2025 : Joined Team Anveshak
+                : Introduced to rover architecture
 
-↓
+  April 2025 : Learned Fusion 360
+                   : Studied existing rover designs
 
-Designed Components
-📷 CAD Render
+   May 2025 : Designed first mechanical components
+                 : Participated in design reviews
 
-↓
+  August 2025 : Improved CAD models
+                  : Prepared manufacturing drawings
 
-Manufacturing
-📷 Workshop Photo
+  September 2025 : Workshop manufacturing
+                  : Component inspection
+October 2025: Assembly of asteobio system
+            : remote testing of the system
 
-↓
+November 2025 : Rover assembly
+                 : Integration with other subsystems
 
-Assembly
-📷 Rover Assembly
+December 2025 : Testing and design improvements
 
-↓
+January 2025: IRC 2026
+                 : Team secured 3rd Position
 
-Testing
-📷 Testing Photo
+February and March 2026: Ideation of rover Jade
 
-↓
+ March 2025 : Worked on Rover Jade
 
-IRC
-📷 Competition Photo
-🥉 3rd Position
+May 2026: ERC application video
 
-↓
+    
+```
 
-Rover Jade
-📷 Final Rover
