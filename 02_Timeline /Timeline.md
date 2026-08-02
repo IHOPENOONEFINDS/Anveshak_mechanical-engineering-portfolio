@@ -26,7 +26,7 @@ November 2025 : Rover assembly
 
 December 2025 : Testing and design improvements
 
-January 2025: IRC 2026
+January 2026: IRC 2026
                  : Team secured 3rd Position
 
 February and March 2026: Ideation of rover Jade
