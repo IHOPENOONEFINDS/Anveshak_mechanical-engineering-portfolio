@@ -1,0 +1,28 @@
+# Engineering Decisions
+
+## Material Selection
+
+Why aluminium?
+
+- Lightweight
+- Easy to machine
+- Good strength-to-weight ratio
+
+---
+
+## Fasteners
+
+Why M4 screws?
+
+- Standardized across rover
+- Easy replacement
+- Readily available
+
+---
+
+## Design Philosophy
+
+- Minimize weight
+- Reduce manufacturing complexity
+- Easy maintenance
+- Modular construction
